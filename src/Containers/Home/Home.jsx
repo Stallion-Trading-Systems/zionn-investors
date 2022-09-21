@@ -91,7 +91,7 @@ const Admin = () => {
                                             name={userobj.email}
                                             round={true}
                                             size="50"
-                                        /></button>
+                                        /></button> 
                                         <div className={openlogout ? "dropdown-content-monkey monkey-click" : "dropdown-content-monkey"}>
                                             <a style={{ textDecoration: "none" }} href="https://www.linkedin.com/company/zionn/" target="__blank"><Button name="contact" /></a>
                                             <button
